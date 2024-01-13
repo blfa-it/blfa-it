@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @blfa-it
 - 👀 I’m interested in becoming a Cloud Arquitect...
 - 🌱 I’m currently learning Azure, Kubernetes, GitOps
-- ✨
 
 
 <!---
